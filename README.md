@@ -5,6 +5,9 @@
 [![Socket.IO](https://img.shields.io/badge/Java%20Networking-0F52BA?logo=oracle&logoColor=white)](https://docs.oracle.com/javase/8/docs/api/java/net/package-summary.html)
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B75BC?logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/)
 
+![WhatsApp Image 2025-10-28 at 12 23 29_0b42facc](https://github.com/user-attachments/assets/2b71ab3b-d3d6-4c9c-b33d-4642d201a317)
+
+
 ## Overview
 
 This project is a desktop chat application that demonstrates a classic client-server architecture using core Java sockets. The UI is built with Swing components and styled to resemble a modern messaging client. The application showcases how to maintain a persistent connection between two peers, render message bubbles with timestamps, and broadcast updates to the GUI in real time.
